@@ -1,0 +1,25 @@
+Autor: Denilson F. de Sá (CrazyTerabyte or CrazyTB)
+Data:  2004-12-19.
+Descrição:
+
+Um ANSI Art (a grosso modo, é um ASCII Art colorido) com o imagem da
+Minerva (símbolo da UFRJ) e o símbolo do IM (Instituto de Matemática).
+
+Demorei 1h30 para desenhar a Minerva, e mais meia hora para desenhar o
+símbolo do IM e adicionar o texto.
+
+Criado usando o editor AEWAN. Pode não ser o melhor, mas funciona bem.
+
+
+Arquivos:
+
+minerva.ae    - Salvo no formato do AEWAN.
+minerva.issue - Pronto para ser usado no /etc/issue.
+minerva.txt   - Texto puro com ANSI escapes para deixá-lo colorido.
+README        - Você o está lendo agora.
+
+
+Links:
+
+AEWAN - Ascii-art Editor Without a Name
+http://aewan.sourceforge.net/
