@@ -1,22 +1,29 @@
-Autor: Denilson F. de S· (CrazyTerabyte or CrazyTB)
-Data:  2004-12-19.
-DescriÁ„o:
+Autor: Denilson F. de S√° (CrazyTerabyte or CrazyTB)
+Data:  2004-12-19 (atualizado em 2009-08-05)
+Descri√ß√£o:
 
-Um ANSI Art (a grosso modo, È um ASCII Art colorido) com o imagem da
-Minerva (sÌmbolo da UFRJ) e o sÌmbolo do IM (Instituto de Matem·tica).
+Um ANSI Art (a grosso modo, √© um ASCII Art colorido) com o imagem da
+Minerva (s√≠mbolo da UFRJ) e o s√≠mbolo do IM (Instituto de Matem√°tica).
 
 Demorei 1h30 para desenhar a Minerva, e mais meia hora para desenhar o
-sÌmbolo do IM e adicionar o texto.
+s√≠mbolo do IM e adicionar o texto.
 
-Criado usando o editor AEWAN. Pode n„o ser o melhor, mas funciona bem.
+Criado usando o editor AEWAN. Pode n√£o ser o melhor, mas funciona bem.
 
 
 Arquivos:
 
 minerva.ae    - Salvo no formato do AEWAN.
 minerva.issue - Pronto para ser usado no /etc/issue.
-minerva.txt   - Texto puro com ANSI escapes para deix·-lo colorido.
-README        - VocÍ o est· lendo agora.
+minerva.txt   - Texto puro com ANSI escapes para deix√°-lo colorido.
+README        - Voc√™ o est√° lendo agora.
+
+
+Update:
+2009-08-05  - Atualizados 'minerva.issue' e 'minerva.txt' para usar
+			  apenas caracteres ASCII. A vers√£o anterior continua
+			  dispon√≠vel (usando encodings utf8 e latin1). O arquivo
+			  original 'minerva.ae' n√£o foi editado.
 
 
 Links:
