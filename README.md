@@ -1,6 +1,7 @@
 # Minerva ANSI Art
 
 Autor: Denilson F. de Sá (CrazyTerabyte or CrazyTB)
+
 Data: 2004-12-19 (atualizado em 2009-08-05)
 
 ## Descrição
