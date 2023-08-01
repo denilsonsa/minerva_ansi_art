@@ -5,9 +5,12 @@ Data: 2004-12-19 (atualizado em 2009-08-05)
 
 ## Descrição
 
-Um ANSI Art (a grosso modo, é um ASCII Art colorido) com o imagem da [Minerva
-(símbolo da UFRJ)](https://www.google.com/search?q=minerva+UFRJ&tbm=isch) e o
-símbolo do [IM (Instituto de Matemática)](https://www.google.com/search?q=IM+Instituto+de+Matem%C3%A1tica+UFRJ&tbm=isch).
+Um ANSI Art com a imagem da [Minerva (símbolo da
+UFRJ)](https://www.google.com/search?q=minerva+UFRJ&tbm=isch) e o símbolo do
+[IM (Instituto de
+Matemática)](https://www.google.com/search?q=IM+Instituto+de+Matem%C3%A1tica+UFRJ&tbm=isch).
+Um ANSI Art é basicamente um ASCII Art colorido. Usei essa "arte" no LabMA
+(Laboratório de Matemática Aplicada).
 
 Demorei 1h30 para desenhar a Minerva, e mais meia hora para desenhar o
 símbolo do IM e adicionar o texto.
